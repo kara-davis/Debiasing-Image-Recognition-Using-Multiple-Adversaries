@@ -1,1 +1,30 @@
+once the new file with the fairer data is generated you must follow these steps for turning the file into the data file needed for the adversarial debiasing code
+1
+Open the fake_data Microsoft Excel file.
 
+2
+Delete the first row which contains the headings for the rest of the generated data. 
+
+3
+Click the "File" tab in the upper-left corner, then select "Save As."
+
+4
+Click the drop-down menu to the right of "Save As Type" and select "CSV (Comma Delimited)."
+
+5
+Click the "Save" button, click "OK" to save the active sheet, then click "Yes" to keep the worksheet in CSV format.
+
+6
+Right click the CSV file you just created, click "Open With" and select "Notepad."
+
+7
+Click "File" at the top of the window, then click "Save As."
+
+8
+Click the drop-down menu to the right of "Save As Type" and choose "All Files."
+
+9
+Rename the file adult.data 
+
+10
+Click the "Save" button.
