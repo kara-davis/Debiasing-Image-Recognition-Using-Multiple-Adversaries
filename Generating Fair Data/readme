@@ -27,4 +27,5 @@ Click the drop-down menu to the right of "Save As Type" and choose "All Files."
 Rename the file adult.data 
 
 10
-Click the "Save" button.
+Save this file in the aif360\data\raw\adult folder from the cloned AIF360 github repository.
+
